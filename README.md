@@ -24,10 +24,11 @@
 
 ## Supported Browsers
 
-| Browser         | Availability    |
-| --------------- | --------------- |
-| Mozilla Firefox | Source included |
-| Google Chrome   | Source included |
+| Browser | Download |
+|---|---|
+| Mozilla Firefox | [Download for Firefox](https://github.com/Motachondria/NoTTer/releases/download/Releases/firefox.zip) |
+| Google Chrome | [Download for Chrome](https://github.com/Motachondria/NoTTer/releases/download/Releases/chrome.zip) |
+
 
 See the browser-specific installation instructions below.
 
